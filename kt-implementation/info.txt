@@ -1,0 +1,1 @@
+This package implements Knowledge Tracing using Deep Learning models in Tensorflow/Keras
